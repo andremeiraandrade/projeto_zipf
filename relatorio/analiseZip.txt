@@ -1,0 +1,6 @@
+Total de Palavras:50904
+Total de palavras distintas:6109
+
+Posicao:10 | Palavra: para
+Posicao:100 | Palavra: coisa
+Posicao:1000 | Palavra: ganhava

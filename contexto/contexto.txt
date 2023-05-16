@@ -1,0 +1,6 @@
+ A lei de Zipf é uma teoria com base na matemática e linguística 
+que analisa e quantifica como as palavras são distribuídas dentro 
+de um determinado texto. Desta forma, é possível representar por 
+meio de gráficos e análises estatísticas quais são os termos que 
+mais se repetem de modo que seja possível criar um ranking de 
+palavras-chave.
