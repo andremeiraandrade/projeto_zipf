@@ -90,4 +90,4 @@ def visual_30():
 
     plt.savefig('./relatório/visual_30.png', dpi=600, bbox_inches='tight')
 
-
+    #plt.show
