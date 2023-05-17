@@ -8,6 +8,7 @@ import matplotlib as mt
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Fiz uma alteração aqui
 
 with fitz.open('./base/Mente Milionária.pdf') as pdf:
     texto = ''
@@ -90,4 +91,4 @@ def visual_30():
 
     plt.savefig('./relatório/visual_30.png', dpi=600, bbox_inches='tight')
 
-    #plt.show
+    # Removi o plt plot por não ser necessário
